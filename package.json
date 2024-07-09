@@ -9,10 +9,12 @@
     "@apollo/client": "^3.10.8",
     "@emotion/cache": "^11.11.0",
     "@mui/material-nextjs": "^5.15.11",
-    "graphql": "^16.9.0",
+    "axios": "^1.7.2",
+    "framer-motion": "^11.2.13",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "three": "^0.166.1"
   },
   "engines": {
     "node": ">=18"
